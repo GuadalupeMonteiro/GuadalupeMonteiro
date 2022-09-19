@@ -2,9 +2,9 @@
 # Olá mundo 👋, eu sou Guadalupe Monteiro!
 
 <br>
-<p>🌱 I’m currently learning HTML, CSS and Javascript. 
+<p>🌱 I’m currently learning HTML, CSS and starting studies in Javascript. 
 I’m  focusing on develop myself at the front-end.</p>
-<p>Atualmente estou estudando HTML, CSS e Javascript. 
+<p>Atualmente estou estudando HTML, CSS e iniciando os estudos em Javascript. 
 Estou focada em me desenvolver no front-end.</p>
 <br>
 <p>👯 I’m  looking for an internship to acquire knowledge.</p>
