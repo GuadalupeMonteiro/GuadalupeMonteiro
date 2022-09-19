@@ -10,9 +10,9 @@ Estou focada em me desenvolver no front-end.</p>
 <p>👯 I’m  looking for an internship to acquire knowledge.</p>
 <p>Procuro por um estágio para adquirir conhecimento.</p>
 <br>
-<p>📫 How to reach me: guadalupemonteiro123@yahoo.com.br, 
+<p>📫 How to reach me: guadalupemonteiro123@yahoo.com.br<br> 
 linkedin.com/in/guadalupe-monteiro-silva-015314249</p>
-<p>Onde me encontrar: guadalupemonteiro123@yahoo.com.br, 
+<p>Onde me encontrar: guadalupemonteiro123@yahoo.com.br<br> 
 linkedin.com/in/guadalupe-monteiro-silva-015314249</p>
 <br>
 <p>⚡ Fun fact: I’m persistent!</p>
